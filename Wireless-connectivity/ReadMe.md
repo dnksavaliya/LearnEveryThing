@@ -12,7 +12,7 @@
 
 <a target="_blank" href="http://www.st.com/en/wireless-connectivity.html">ST Microelectronic </a>
 
-<a target="_blank" href="http://www.atmel.com/products/wireless/default.aspx">Atme Semi.</a>
+<a target="_blank" href="http://www.atmel.com/products/wireless/default.aspx">Atmel Semi.</a>
 
 <a target="_blank" href="http://www.nxp.com/products/wireless-connectivity:WIRELESS-CONNECTIVITY">NXP Semi </a>
 
