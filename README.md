@@ -1,34 +1,26 @@
-# Learn Everything
-## Online CA 
-### Link
+# FIRST
+## SECOND
+### THIRD
 
 ```
-Link
+INSIDE BOX
 ```
 
-## Link
-
+## LINK
 * [link](http://www.google.com) - Google
 
 <h1 align="center">
   <br>
   <a href="http://www.google.com"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif" alt="Markdownify" width="200"></a>
   <br>
-  Animated
+  HTML HEADER
   <br>
 </h1>
 
 ## Features
 
-* LivePreview 
-  - Instantly 
-* Emoji support in preview :tada:
+* DOT 
+  - SUB 
+* DOT
 
-
-#### License
-
----
-
-> [http://www.google.com](http://www.google.com) &nbsp;&middot;&nbsp;
-> Google [@google](http://www.google.com) &nbsp;&middot;&nbsp;
-> Google [@google](http://www.google.com) 
+:tada:
