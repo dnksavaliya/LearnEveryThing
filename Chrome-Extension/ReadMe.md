@@ -1,8 +1,7 @@
 <a href="https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel">Alexa Rank</a>
 
 <a href="https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg">Wappalyzer</a>
-
-<a href="https://www.wappalyzer.com/applications">Wappalyzer : Website Development Tools</a>
+<a href="https://www.wappalyzer.com/applications"> Website Development Tools</a>
 
 <a href="https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp">Similar Web</a>
 
