@@ -1,17 +1,17 @@
-http://www.indianstartups.com/
-https://yourstory.com/
-http://10000startups.com/
-http://prostart.me/100-essential-resources-for-entrepreneurs-and-freelancers/
-https://startupindia.upgrad.com/login?
-http://www.startupindia.gov.in/startup-recognition.php
-http://startupindia.gov.in/registration.php
-https://www.investmentnetwork.in/entrepreneurs-home
-https://angel.co/india
-https://angel.co/pro-start-me
-http://prostart.me/
-https://betalist.com/
-http://tlabs.in/
-https://nextbigwhat.com/
-https://digitalmonster.org/
-https://www.wfnen.org/
-https://www.entrepreneur.com/
+start http://www.indianstartups.com/
+start https://yourstory.com/
+start http://10000startups.com/
+start http://prostart.me/100-essential-resources-for-entrepreneurs-and-freelancers/
+start https://startupindia.upgrad.com/login?
+start http://www.startupindia.gov.in/startup-recognition.php
+start http://startupindia.gov.in/registration.php
+start https://www.investmentnetwork.in/entrepreneurs-home
+start https://angel.co/india
+start https://angel.co/pro-start-me
+start http://prostart.me/
+start https://betalist.com/
+start http://tlabs.in/
+start https://nextbigwhat.com/
+start https://digitalmonster.org/
+start https://www.wfnen.org/
+start https://www.entrepreneur.com/
