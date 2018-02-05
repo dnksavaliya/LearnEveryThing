@@ -1,7 +1,6 @@
-
-https://www.kickstarter.com/projects
-https://www.indiegogo.com/projects
-https://www.crowdsupply.com/browse
-https://www.patreon.com/explore
-https://www.tindie.com/browse
-https://www.hackster.io
+start https://www.kickstarter.com/projects
+start https://www.indiegogo.com/projects
+start https://www.crowdsupply.com/browse
+start https://www.patreon.com/explore
+start https://www.tindie.com/browse
+start https://www.hackster.io
