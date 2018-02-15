@@ -2,6 +2,8 @@
 
 <a href="https://gujrera.gujarat.gov.in/registeredProjectList?offset=0&maxResults=15">Project in Gujarat</a>
 
+<a href="https://anyror.gujarat.gov.in/">Check Your Land Detail</a>
+
 # Property-Deal
 
 <a href="https://www.99acres.com/">99Acres</a>
