@@ -2,7 +2,8 @@
 
 <a href="https://gujrera.gujarat.gov.in/registeredProjectList?offset=0&maxResults=15">Project in Gujarat</a>
 
-<a href="https://anyror.gujarat.gov.in/">Check Your Land Detail</a>
+<a href="https://services.india.gov.in/">India Your Detail - </a>
+<a href="https://anyror.gujarat.gov.in/">Your Land Detail</a>
 
 # Property-Deal
 
